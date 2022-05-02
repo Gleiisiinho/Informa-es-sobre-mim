@@ -1,2 +1,2 @@
-# Informa-es-sobre-mim
+# Informacoes sobre mim
 Contando um pouco sobre mim
